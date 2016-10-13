@@ -15,6 +15,7 @@
   * cd first-testing
   * npm install
   * npm run selenium-setup
+  * sudo chmod +x ./node_modules/selenium-standalone/.selenium/chromedriver/2.24-x64-chromedriver
 
 =========================================  done ......
 
