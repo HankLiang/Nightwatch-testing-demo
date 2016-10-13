@@ -1,11 +1,11 @@
 module.exports = {
-  'login qucrm ': function (client) {
+  'login qucrm ': ''+function (client) {
     // 定义 Bing 页面中的节点.
     const email = '#email'
     const password = '#password'
     const sub = '.btn.btn-success'
     client.url('http://wm.com/site/login').maximizeWindow()
-    client.pause(200)  // 稍等两秒.
+    client.pause(2000)  // 稍等两秒.
 
     client.expect.element('body').to.be.present
     client.expect.element(email).to.be.visible
