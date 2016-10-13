@@ -13,8 +13,8 @@
 ## Install demo
   * git clone https://github.com/HankLiang/Nightwatch-testing-demo.git
   * cd first-testing
-  * ``npm install``
-  * ``npm run selenium-setup``
+  * npm install
+  * npm run selenium-setup
 
 =========================================  done ......
 
