@@ -1,8 +1,8 @@
 #Nightwatch+Selenium front-end Testing
 
 ## Firsting........
-  - Install [java]('http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html')(Setting JAVA environment)
-  - Make sure your chrome version >= 52.** [Download]('https://www.google.com/chrome/')
+  - Install [java]('http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html') Setting JAVA environment
+  - Make sure your chrome version >= 52.XX [Download]('https://www.google.com/chrome/')
 
 ## Tools
   - [Nightwatch]('https://github.com/nightwatchjs/nightwatch')
