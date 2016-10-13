@@ -10,7 +10,7 @@
   * [Nightwatch Guide](http://nightwatchjs.org/guide)
   * [Nightwatch Api](http://nightwatchjs.org/api)
 
-## Clone demo
+## Install demo
   * git clone https://github.com/HankLiang/Nightwatch-testing-demo.git
   * cd first-testing
   * ``npm install``
