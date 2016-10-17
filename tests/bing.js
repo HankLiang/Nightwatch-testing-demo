@@ -1,5 +1,5 @@
 module.exports = {
-  'Find the answer.': function (client) {
+  'Find the answer.': ''+function (client) {
     // 定义 Bing 页面中的节点.
     const searchInput = '#sb_form_q'
     const searchBtn = '#sb_form_go'

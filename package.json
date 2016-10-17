@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./startup.js",
-    "running": "nightwatch -e default,chrome",
+    "running": "nightwatch --group site,member -e chrome ",
     "selenium-setup": "node ./build/selenium-setup.js"
   },
   "keywords": [],
